@@ -1,0 +1,12 @@
+<phpunit bootstrap="bootstrap.php"
+	backupGlobals="false"
+	color="true"
+	debug="true">
+		<filter>
+			<whitelist>
+				<directory>
+					src/Dojo
+				</directory>
+			</whitelist>
+		</filter>
+</phpunit>
