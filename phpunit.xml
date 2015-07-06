@@ -1,7 +1,4 @@
-<phpunit bootstrap="bootstrap.php"
-	backupGlobals="false"
-	color="true"
-	debug="true">
+<phpunit bootstrap="bootstrap.php" backupGlobals="false" colors="true" debug="true">
 		<filter>
 			<whitelist>
 				<directory>
